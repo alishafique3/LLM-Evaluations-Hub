@@ -20,7 +20,7 @@ print(metrics_list)
 - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.
 - [[webpage](https://pypi.org/project/evaluate/)]
 
-## 3. RAGAS
+## 3. Ragas
 - Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
 - Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, Context Recall, Context entities recall, Answer semantic similarity, Answer Correctness, and Aspect Critique.
 - [[webpage](https://docs.ragas.io/en/stable/index.html)], [[quick start](https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb)], [[example_1](https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA)]
