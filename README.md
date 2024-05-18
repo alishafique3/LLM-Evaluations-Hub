@@ -24,6 +24,14 @@ print(metrics_list)
 - Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
 - Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, Context Recall, Context entities recall, Answer semantic similarity, Answer Correctness, and Aspect Critique.
 - [webpage](https://docs.ragas.io/en/stable/index.html), [quick start](https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb), [example_1](https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA)
+
+## 4. Amazon Mechanical Turk
+- Amazon Mechanical Turk to evaluate the model-generated response by humans based on HHH (helpful, honest, harmless) alignment criteria. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks.
+- [webpage](https://www.mturk.com/)
+
+## Useful Resources
+- Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices [medium](https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5).
+- Evaluation for Large Language Models and Generative AI - A Deep Dive [youtube](https://youtu.be/iQl03pQlYWY?si=JB47_iUMTBbOTCHh).
         
 <!--
 <h2 class="section-title">Overview</h2>
@@ -44,59 +52,3 @@ print(metrics_list)
         
 </div> -->
 
-
-<!-- Repeat similar blocks for other sections -->
-<div id="framework" class="section">
-<!--<h2 class="section-title">Frameworks</h2> -->
-
-<h3>2. Huggingface evaluate</h3>
-Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.<br> 
-[<a href="https://pypi.org/project/evaluate/">webpage</a>]
-        
-<h3>3. RAGAS</h3>
-<ul>
-<li>
-Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
-</li> 
-<li>        
-Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, Context Recall, Context entities recall, Answer semantic similarity, Answer Correctness, and Aspect Critique.
-</li>
-<li>
-[<a href="https://docs.ragas.io/en/stable/index.html">webpage</a>], [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb">quick start</a>], [<a href="https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA">example 1</a>]
-</li>
-</ul>
-<!-- Content for SLAM -->
-</div>
-
-
-<div id="human" class="section">
-<h2 class="section-title">Human based Evaluations</h2>
-<ul>
-<li>Amazon Mechanical Turk to evaluate the model-generated response. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks [<a href="https://www.mturk.com/">webpage</a>]</li>
-
-</ul>
-
-</div>
-
-
-<!--
-<div id="application" class="section">
-<h2 class="section-title">Applications</h2>
-<h3>Sentiment Analysis</h3>
-<ul>
-<li>In this tutorial, the sentiment task is evaluated using a confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
-</ul>
-
-</div>   -->
-
-
-<div id="resource" class="section">
-<h2 class="section-title">Useful Resources</h2>
-<ul>
-<li>Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices.  [<a href="https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5">medium</a>]</li>
-        
-<li>Evaluation for Large Language Models and Generative AI - A Deep Dive [<a href="https://youtu.be/iQl03pQlYWY?si=JB47_iUMTBbOTCHh">youtube</a>]</li>
-        
-</ul>
-        
-</div>
