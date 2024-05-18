@@ -71,7 +71,10 @@ Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, C
 <div id="human" class="section">
 <h2 class="section-title">Human based Evaluations</h2>
 <ul>
-<li>In this tutorial, the sentiment task is evaluated using a confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
+<li>Amazon Mechanical Turk to evaluate the model-generated response. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks [<a href="https://www.mturk.com/">webpage</a>]</li>
+
+<li>Toloka AI can also be used for human feedback to develop, fine-tune, and evaluate LLMs tailored to your needs [<a href="https://toloka.ai/large-language-models/">webpage</a>]</li>
+
 </ul>
 
 </div>
