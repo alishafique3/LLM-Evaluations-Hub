@@ -1,4 +1,4 @@
-<h1>LLM Evaluations Hub</h1>
+# LLM Evaluations Hub
 
 <p>
 For an overview of <strong>NeRFs</strong>, checkout the Survey 
@@ -9,16 +9,16 @@ and Collection
 </p>
         
 
-<h2 class="section-title">Overview</h2>
+<h1 class="section-title">Overview</h1>
 <ul>
-<li><a href="#metric">Metric</a></li>
-<li><a href="#framework">Framework</a></li>
-<li><a href="#application">Application</a></li>
+<li><a href="#metric">Evaluation Metrics</a></li>
+<li><a href="#framework">Frameworks</a></li>
+<li><a href="#application">Applications</a></li>
 </ul>
         
 <div id="metric" class="section">
-<h2 class="section-title">Evaluation Metric</h2>
-- <b>ROUGE score</b>: known as Recall-Oriented Understudy for Gisting Evaluation, is a metric used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]      
+<h1 class="section-title">Evaluation Metric</h1>
+- <h3>ROUGE score</h3>: known as Recall-Oriented Understudy for Gisting Evaluation, is a metric used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]      
         
 </div>
 
