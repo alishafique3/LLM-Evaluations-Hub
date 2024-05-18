@@ -73,8 +73,6 @@ Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, C
 <ul>
 <li>Amazon Mechanical Turk to evaluate the model-generated response. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks [<a href="https://www.mturk.com/">webpage</a>]</li>
 
-<li>Toloka AI can also be used for human feedback to develop, fine-tune, and evaluate LLMs tailored to your needs [<a href="https://toloka.ai/large-language-models/">webpage</a>]</li>
-
 </ul>
 
 </div>
