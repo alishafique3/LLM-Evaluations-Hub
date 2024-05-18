@@ -29,6 +29,7 @@ and Collection
 <!-- Repeat similar blocks for other sections -->
 <div id="framework" class="section">
 <h2 class="section-title">Frameworks</h2>
+        
 <h4>Huggingface datasets</h4>
 Datasets provides various common and NLP-specific metrics for you to measure your models performance.<br> 
 <i>from datasets import list_metrics<br>
@@ -39,6 +40,10 @@ print(metrics_list)</i>
 <code>output:</code> ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
 <br>
 [<a href="https://huggingface.co/docs/datasets/metrics">webpage</a>]
+
+<h4>Huggingface evaluate</h4>
+Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.<br> 
+[<a href="https://pypi.org/project/evaluate/">webpage</a>]
         
 <h4>RAGAS</h4>
 Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.<br> 
