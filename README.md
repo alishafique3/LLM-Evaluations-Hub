@@ -31,7 +31,7 @@ and Collection
 <h2 class="section-title">Frameworks</h2>
 <h4>Huggingface datasets</h4>
 Datasets provides various common and NLP-specific metrics for you to measure your models performance.<br> 
-<code class = "language-python">from datasets import list_metrics
+<code>from datasets import list_metrics
 metrics_list = list_metrics()
 len(metrics_list)
 print(metrics_list)
