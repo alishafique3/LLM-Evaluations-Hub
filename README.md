@@ -9,6 +9,7 @@ This repository is dedicated to the comprehensive list of evaluation tools for l
 <ul>
 <li><a href="#metric">Evaluation Metrics</a></li>
 <li><a href="#framework">Frameworks</a></li>
+<li><a href="#human">Human based Evaluations</a></li>
 <li><a href="#application">Applications</a></li>
 <li><a href="#resource">Useful Resources</a></li>
 </ul>
@@ -70,6 +71,14 @@ Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, C
 <div id="application" class="section">
 <h2 class="section-title">Applications</h2>
 <h3>Sentiment Analysis</h3>
+<ul>
+<li>In this tutorial, the sentiment task is evaluated using a confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
+</ul>
+
+</div>
+
+<div id="human" class="section">
+<h2 class="section-title">Human based Evaluations</h2>
 <ul>
 <li>In this tutorial, the sentiment task is evaluated using a confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
 </ul>
