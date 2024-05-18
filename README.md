@@ -10,6 +10,7 @@ This repository is dedicated to the comprehensive list of evaluation tools for l
 <li><a href="#metric">Evaluation Metrics</a></li>
 <li><a href="#framework">Frameworks</a></li>
 <li><a href="#application">Applications</a></li>
+<li><a href="#resource">Useful Resources</a></li>
 </ul>
         
 <div id="metric" class="section">
@@ -61,7 +62,16 @@ Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, C
 <h2 class="section-title">Applications</h2>
 <h3>Sentiment Analysis</h3>
 <ul>
-<li>In this tutorial, sentiment task is evaluated using confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
+<li>In this tutorial, the sentiment task is evaluated using a confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
 </ul>
 
+</div>
+
+
+<div id="resource" class="section">
+<h2 class="section-title">Useful Resources</h2>
+<ul>
+<li>Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices.  [<a href="https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5">medium</a>]</li>
+</ul>
+        
 </div>
