@@ -22,7 +22,7 @@ and Collection
         
 <div id="metric" class="section">
 <h2 class="section-title">Evaluation Metric</h2>
-- Rouge score: known as Recall-Oriented Understudy for Gisting Evaluation, is a software package used for evaluating summarization and machine translation in natural language processing.  [<a href="https://huggingface.co/spaces/evaluate-metric/rouge">webpage</a>]      
+- <b>Rouge score</b>: known as Recall-Oriented Understudy for Gisting Evaluation, is a software package used for evaluating summarization and machine translation in natural language processing.  [<a href="https://huggingface.co/spaces/evaluate-metric/rouge">webpage</a>]      
 <!-- Content for Object Pose Estimation -->
 </div>
 
