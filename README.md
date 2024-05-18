@@ -1,4 +1,4 @@
-<h2>LLM Evaluations Hub</h2>
+<h1>LLM Evaluations Hub</h1>
 
 <p>
 For an overview of <strong>NeRFs</strong>, checkout the Survey 
@@ -11,7 +11,7 @@ and Collection
 
 <h2 class="section-title">Overview</h2>
 <ul>
-<li><a href="#object-pose-estimation">Object Pose Estimation</a></li>
+<li><a href="#metric">Metric</a></li>
 <li><a href="#slam">SLAM</a></li>
 <li><a href="#manipulation-rl">Manipulation/RL</a></li>
 <li><a href="#object-reconstruction">Object Reconstruction</a></li>
@@ -20,8 +20,10 @@ and Collection
 <li><a href="#citation">Citation</a></li>
 </ul>
         
-<div id="object-pose-estimation" class="section">
-<h2 class="section-title">Object Pose Estimation</h2>
+<div id="metric" class="section">
+<h2 class="section-title">Metric</h2>
+- Rouge score: [webpage](https://huggingface.co/spaces/evaluate-metric/rouge)
+        
             <!-- Content for Object Pose Estimation -->
 </div>
 <!-- Repeat similar blocks for other sections -->
