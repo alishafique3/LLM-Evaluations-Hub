@@ -31,7 +31,13 @@ and Collection
 <h2 class="section-title">Frameworks</h2>
 <h4>Huggingface datasets</h4>
 Datasets provides various common and NLP-specific metrics for you to measure your models performance.<br> 
-<code>asd</code>
+<code>
+from datasets import list_metrics
+metrics_list = list_metrics()
+len(metrics_list)
+print(metrics_list)
+</code>
+output: ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
 <br>
 [<a href="https://docs.ragas.io/en/stable/index.html">webpage</a>], [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb">quick start</a>], [<a href="https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA">example 1</a>]
         
