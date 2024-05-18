@@ -18,7 +18,8 @@ and Collection
         
 <div id="metric" class="section">
 <h2 class="section-title">Evaluation Metric</h2>
-<h4>ROUGE score</h4> also known as Recall-Oriented Understudy for Gisting Evaluation, is a metric used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]      
+<h4>ROUGE</h4> 
+- Rouge library, used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]     
         
 </div>
 
@@ -31,5 +32,6 @@ and Collection
 
 <div id="application" class="section">
 <h2 class="section-title">Application</h2>
-<h4>Sentiment Analysis</h4>In this tutorial, sentiment task is evaluated using confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>] 
+<h4>Sentiment Analysis</h4>
+- In this tutorial, sentiment task is evaluated using confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>] 
 </div>
