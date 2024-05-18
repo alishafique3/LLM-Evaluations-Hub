@@ -27,7 +27,7 @@ This repository is dedicated to the comprehensive list of evaluation tools for l
 <div id="framework" class="section">
 <h2 class="section-title">Frameworks</h2>
         
-<h3>Huggingface datasets</h3>
+<h3>1. Huggingface datasets</h3>
 <ul>
 <li>
 Datasets provides various common and NLP-specific metrics for you to measure your models performance.
@@ -47,11 +47,11 @@ print(metrics_list)</i>
 </ul>
 
 
-<h3>Huggingface evaluate</h3>
+<h3>2. Huggingface evaluate</h3>
 Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.<br> 
 [<a href="https://pypi.org/project/evaluate/">webpage</a>]
         
-<h3>RAGAS</h3>
+<h3>3. RAGAS</h3>
 <ul>
 <li>
 Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
