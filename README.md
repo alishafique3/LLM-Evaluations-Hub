@@ -31,12 +31,12 @@ and Collection
 <h2 class="section-title">Frameworks</h2>
 <h4>Huggingface datasets</h4>
 Datasets provides various common and NLP-specific metrics for you to measure your models performance.<br> 
-<code>from datasets import list_metrics
-metrics_list = list_metrics()
-len(metrics_list)
-print(metrics_list)
-</code>
-<i>output:</i> ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
+<i>from datasets import list_metrics<br>
+metrics_list = list_metrics()<br>
+len(metrics_list)<br>
+print(metrics_list)</i>
+
+<code>output:</code> ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
 <br>
 [<a href="https://huggingface.co/docs/datasets/metrics">webpage</a>]
         
