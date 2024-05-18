@@ -1,11 +1,7 @@
 # LLM Evaluations Hub
 
 <p>
-For an overview of <strong>NeRFs</strong>, checkout the Survey 
-<a href="https://example.com">Neural Volume Rendering: NeRF And Beyond</a>, Blog post 
-<a href="https://example.com">NeRF Explosion 2020</a> 
-and Collection 
-<a href="https://example.com">awesome-NeRF</a>
+This repository is dedicated to the comprehensive list of evaluation tools for large language models (LLMs). It includes a diverse set of evaluation tools and performance metrics to assess aspects such as relevance, accuracy, fluency, coherence, readability, coverage, and diversity of generated content.
 </p>
         
 
