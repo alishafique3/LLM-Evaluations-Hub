@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NeRF Overview</title>
-    <style>
-        body {
-            background-color: #1e1e1e;
-            color: #c5c5c5;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        a {
-            color: #3399ff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .container {
-            padding: 20px;
-        }
-        .overview {
-            margin-top: 20px;
-        }
-        .section-title {
-            font-size: 24px;
-            margin-top: 40px;
-            border-bottom: 1px solid #333;
-            padding-bottom: 10px;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        ul li {
-            margin: 10px 0;
-        }
-    </style>
-</head>
+
 <body>
     <div class="container">
         <p>
