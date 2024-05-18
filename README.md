@@ -30,8 +30,8 @@ and Collection
 <div id="framework" class="section">
 <h2 class="section-title">Frameworks</h2>
 <h4>RAGAS</h4>
-Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines. 
-Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, Context Recall, Context entities recall, Answer semantic similarity, Answer Correctness, and Aspect Critique
+Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.<br> 
+Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, Context Recall, Context entities recall, Answer semantic similarity, Answer Correctness, and Aspect Critique. <br>
 [<a href="https://docs.ragas.io/en/stable/index.html">webpage</a>]
 <!-- Content for SLAM -->
 </div>
