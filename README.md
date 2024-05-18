@@ -27,15 +27,24 @@ This repository is dedicated to the comprehensive list of evaluation tools for l
 <h2 class="section-title">Frameworks</h2>
         
 <h3>Huggingface datasets</h3>
-Datasets provides various common and NLP-specific metrics for you to measure your models performance.<br> 
+<ul>
+<li>
+Datasets provides various common and NLP-specific metrics for you to measure your models performance.
+</li>
+<li>
 <i>from datasets import list_metrics<br>
 metrics_list = list_metrics()<br>
 len(metrics_list)<br>
 print(metrics_list)</i>
 
 <code>output:</code> ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
-<br>
+</li>
+<li>
 [<a href="https://huggingface.co/docs/datasets/metrics">webpage</a>]
+</li>
+
+</ul>
+
 
 <h3>Huggingface evaluate</h3>
 Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.<br> 
