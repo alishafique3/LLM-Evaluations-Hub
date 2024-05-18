@@ -12,49 +12,24 @@ and Collection
 <h2 class="section-title">Overview</h2>
 <ul>
 <li><a href="#metric">Metric</a></li>
-<li><a href="#slam">SLAM</a></li>
-<li><a href="#manipulation-rl">Manipulation/RL</a></li>
-<li><a href="#object-reconstruction">Object Reconstruction</a></li>
-<li><a href="#physics">Physics</a></li>
-<li><a href="#planning-navigation">Planning/Navigation</a></li>
-<li><a href="#citation">Citation</a></li>
+<li><a href="#framework">Framework</a></li>
+<li><a href="#application">Application</a></li>
 </ul>
         
 <div id="metric" class="section">
 <h2 class="section-title">Evaluation Metric</h2>
-- <b>Rouge score</b>: known as Recall-Oriented Understudy for Gisting Evaluation, is a software package used for evaluating summarization and machine translation in natural language processing.  [<a href="https://huggingface.co/spaces/evaluate-metric/rouge">webpage</a>]      
-<!-- Content for Object Pose Estimation -->
+- <b>ROUGE score</b>: known as Recall-Oriented Understudy for Gisting Evaluation, is a metric used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]      
+        
 </div>
 
 
 <!-- Repeat similar blocks for other sections -->
-<div id="slam" class="section">
-    <h2 class="section-title">SLAM</h2>
+<div id="framework" class="section">
+    <h2 class="section-title">Framework</h2>
 <!-- Content for SLAM -->
 </div>
 
-<div id="manipulation-rl" class="section">
-    <h2 class="section-title">Manipulation/RL</h2>
+<div id="application" class="section">
+    <h2 class="section-title">Application</h2>
     <!-- Content for Manipulation/RL -->
 </div>
-        
-<div id="object-reconstruction" class="section">
-    <h2 class="section-title">Object Reconstruction</h2>
-    <!-- Content for Object Reconstruction -->
-</div>
-        
-<div id="physics" class="section">
-    <h2 class="section-title">Physics</h2>
-    <!-- Content for Physics -->
-</div>
-        
-<div id="planning-navigation" class="section">
-    <h2 class="section-title">Planning/Navigation</h2>
-    <!-- Content for Planning/Navigation -->
-</div>
-        
-<div id="citation" class="section">
-    <h2 class="section-title">Citation</h2>
-    <!-- Content for Citation -->
-</div>
-
