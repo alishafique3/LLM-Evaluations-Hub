@@ -1,18 +1,30 @@
 # LLM Evaluations Hub
 
-<p>
 This repository is dedicated to the comprehensive list of evaluation tools for large language models (LLMs). It includes a diverse set of evaluation frameworks and performance metrics to assess aspects such as relevance, accuracy, fluency, coherence, readability, coverage, and diversity of generated content.
-</p>
-        
 
+## 1. Huggingface datasets
+- Datasets provide various common and NLP-specific metrics for you to measure your models performance.
+- Metrics
+```python
+from datasets import list_metrics
+metrics_list = list_metrics()<br>
+len(metrics_list)<br>
+print(metrics_list)
+```
+```python
+['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
+```
+- [webpage](https://huggingface.co/docs/datasets/metrics)
+        
+<!--
 <h2 class="section-title">Overview</h2>
 <ul>
 <li><a href="#metric">Evaluation Metrics</a></li>
 <li><a href="#framework">Frameworks</a></li>
 <li><a href="#human">Human based Evaluations</a></li>
-<!--<li><a href="#application">Applications</a></li>  -->
+<li><a href="#application">Applications</a></li>  
 <li><a href="#resource">Useful Resources</a></li>
-</ul>
+</ul> 
         
 <div id="metric" class="section">
 <h2 class="section-title">Evaluation Metrics</h2>
@@ -21,17 +33,17 @@ This repository is dedicated to the comprehensive list of evaluation tools for l
 <li>Rouge library, used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]</li>
 </ul>
         
-</div>
+</div> -->
 
 
 <!-- Repeat similar blocks for other sections -->
 <div id="framework" class="section">
-<h2 class="section-title">Frameworks</h2>
+<!--<h2 class="section-title">Frameworks</h2> -->
         
 <h3>1. Huggingface datasets</h3>
 <ul>
 <li>
-Datasets provides various common and NLP-specific metrics for you to measure your models performance.
+Datasets provide various common and NLP-specific metrics for you to measure your models performance.
 </li>
 <li>
 <i>from datasets import list_metrics<br>
