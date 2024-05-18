@@ -22,7 +22,7 @@ and Collection
         
 <div id="metric" class="section">
 <h2 class="section-title">Metric</h2>
-- Rouge score: [webpage](https://huggingface.co/spaces/evaluate-metric/rouge)        
+- Rouge score:  [<a href="https://huggingface.co/spaces/evaluate-metric/rouge">webpage</a>]      
 <!-- Content for Object Pose Estimation -->
 </div>
 
