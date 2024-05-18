@@ -9,7 +9,7 @@ and Collection
 </p>
         
 
-<h1 class="section-title">Overview</h1>
+<h2 class="section-title">Overview</h2>
 <ul>
 <li><a href="#metric">Evaluation Metrics</a></li>
 <li><a href="#framework">Frameworks</a></li>
@@ -17,8 +17,8 @@ and Collection
 </ul>
         
 <div id="metric" class="section">
-<h1 class="section-title">Evaluation Metric</h1>
-- <h3>ROUGE score</h3>: known as Recall-Oriented Understudy for Gisting Evaluation, is a metric used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]      
+<h2 class="section-title">Evaluation Metric</h2>
+<h4>ROUGE score</h4> also known as Recall-Oriented Understudy for Gisting Evaluation, is a metric used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]      
         
 </div>
 
