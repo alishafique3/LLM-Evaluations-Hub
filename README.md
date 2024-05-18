@@ -22,10 +22,11 @@ and Collection
         
 <div id="metric" class="section">
 <h2 class="section-title">Metric</h2>
-- Rouge score: [webpage](https://huggingface.co/spaces/evaluate-metric/rouge)
-        
-            <!-- Content for Object Pose Estimation -->
+- Rouge score: [webpage](https://huggingface.co/spaces/evaluate-metric/rouge)        
+<!-- Content for Object Pose Estimation -->
 </div>
+
+
 <!-- Repeat similar blocks for other sections -->
 <div id="slam" class="section">
     <h2 class="section-title">SLAM</h2>
