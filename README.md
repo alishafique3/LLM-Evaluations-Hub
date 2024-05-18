@@ -30,6 +30,6 @@ and Collection
 </div>
 
 <div id="application" class="section">
-    <h2 class="section-title">Application</h2>
-    <!-- Content for Manipulation/RL -->
+<h2 class="section-title">Application</h2>
+- <b>Sentiment Analysis</b>: In this tutorial, sentiment task is evaluated using confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>] 
 </div>
