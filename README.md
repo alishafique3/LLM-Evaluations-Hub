@@ -18,8 +18,10 @@ and Collection
         
 <div id="metric" class="section">
 <h2 class="section-title">Evaluation Metric</h2>
-<h4>ROUGE</h4> 
-- Rouge library, used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]     
+<h4>ROUGE</h4>
+<ul>
+<li>Rouge library, used for evaluating summarization and machine translation in natural language processing.  [<a href="https://github.com/pltrdy/rouge/tree/master">github</a>]</li>
+</ul>
         
 </div>
 
@@ -33,5 +35,8 @@ and Collection
 <div id="application" class="section">
 <h2 class="section-title">Application</h2>
 <h4>Sentiment Analysis</h4>
-- In this tutorial, sentiment task is evaluated using confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>] 
+<ul>
+<li>In this tutorial, sentiment task is evaluated using confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
+</ul>
+
 </div>
