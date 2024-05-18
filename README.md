@@ -2,7 +2,7 @@
 
 This repository is dedicated to the comprehensive list of evaluation tools for large language models (LLMs). It includes a diverse set of evaluation frameworks and performance metrics to assess aspects such as relevance, accuracy, fluency, coherence, readability, coverage, and diversity of generated content.
 
-## 1. Huggingface datasets
+## 1. datasets
 - Datasets provide various common and NLP-specific metrics for you to measure your models performance.
 - Metrics
 ```python
@@ -15,6 +15,15 @@ print(metrics_list)
 ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
 ```
 - [webpage](https://huggingface.co/docs/datasets/metrics)
+
+## 2. evaluate
+- Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.
+- [webpage](https://pypi.org/project/evaluate/)
+
+## 3. RAGAS
+- Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, Context Recall, Context entities recall, Answer semantic similarity, Answer Correctness, and Aspect Critique.
+- [webpage](https://docs.ragas.io/en/stable/index.html), [quick start](https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb), [example_1](https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA)
         
 <!--
 <h2 class="section-title">Overview</h2>
@@ -39,26 +48,6 @@ print(metrics_list)
 <!-- Repeat similar blocks for other sections -->
 <div id="framework" class="section">
 <!--<h2 class="section-title">Frameworks</h2> -->
-        
-<h3>1. Huggingface datasets</h3>
-<ul>
-<li>
-Datasets provide various common and NLP-specific metrics for you to measure your models performance.
-</li>
-<li>
-<i>from datasets import list_metrics<br>
-metrics_list = list_metrics()<br>
-len(metrics_list)<br>
-print(metrics_list)</i>
-
-<code>output:</code> ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
-</li>
-<li>
-[<a href="https://huggingface.co/docs/datasets/metrics">webpage</a>]
-</li>
-
-</ul>
-
 
 <h3>2. Huggingface evaluate</h3>
 Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.<br> 
