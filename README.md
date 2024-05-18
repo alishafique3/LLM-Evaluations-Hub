@@ -63,22 +63,22 @@ Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, C
 <li>
 [<a href="https://docs.ragas.io/en/stable/index.html">webpage</a>], [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb">quick start</a>], [<a href="https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA">example 1</a>]
 </li>
+</ul>
 <!-- Content for SLAM -->
 </div>
 
-</ul>
 
-<div id="application" class="section">
-<h2 class="section-title">Applications</h2>
-<h3>Sentiment Analysis</h3>
+<div id="human" class="section">
+<h2 class="section-title">Human based Evaluations</h2>
 <ul>
 <li>In this tutorial, the sentiment task is evaluated using a confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
 </ul>
 
 </div>
 
-<div id="human" class="section">
-<h2 class="section-title">Human based Evaluations</h2>
+<div id="application" class="section">
+<h2 class="section-title">Applications</h2>
+<h3>Sentiment Analysis</h3>
 <ul>
 <li>In this tutorial, the sentiment task is evaluated using a confusion matrix and classification report.  [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb">github</a>]</li>
 </ul>
