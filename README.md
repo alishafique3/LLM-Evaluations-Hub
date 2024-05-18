@@ -81,6 +81,9 @@ Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, C
 <h2 class="section-title">Useful Resources</h2>
 <ul>
 <li>Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices.  [<a href="https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5">medium</a>]</li>
+        
+<li>Evaluation for Large Language Models and Generative AI - A Deep Dive [<a href="https://youtu.be/iQl03pQlYWY?si=JB47_iUMTBbOTCHh">youtube</a>]</li>
+        
 </ul>
         
 </div>
