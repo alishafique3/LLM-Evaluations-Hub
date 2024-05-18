@@ -29,6 +29,13 @@ and Collection
 <!-- Repeat similar blocks for other sections -->
 <div id="framework" class="section">
 <h2 class="section-title">Frameworks</h2>
+<h4>Huggingface datasets</h4>
+Datasets provides various common and NLP-specific metrics for you to measure your models performance.<br> 
+```python
+asd
+``` <br>
+[<a href="https://docs.ragas.io/en/stable/index.html">webpage</a>], [<a href="https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb">quick start</a>], [<a href="https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA">example 1</a>]
+        
 <h4>RAGAS</h4>
 Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.<br> 
 Metrics: Faithfulness, Answer Relevance, Context Precision, Context Relevancy, Context Recall, Context entities recall, Answer semantic similarity, Answer Correctness, and Aspect Critique. <br>
