@@ -17,8 +17,8 @@ print(metrics_list)
 - [[webpage](https://huggingface.co/docs/datasets/metrics)]
 
 ## 2. evaluate
-- Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.
-- Metrics: Evaluate provides access to a wide range of evaluation tools. It covers a range of modalities such as text, computer vision, audio, etc. as well as tools to evaluate models or datasets. [[webpage](https://huggingface.co/evaluate-metric)]
+- Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized. It has three types of evaluations: Metrics, comparison, and measurement. You can also create new evaluation modules and push them to a dedicated Space in the Huggingface Hub
+- Metrics: Evaluate provides access to dozens of popular metrics. It covers a range of modalities such as text, computer vision, audio, etc. as well as tools to evaluate models or datasets. Comparisons are used to measure the difference between models and measurements are tools to evaluate datasets. [[webpage](https://huggingface.co/evaluate-metric)]
 - [[webpage](https://huggingface.co/docs/evaluate/index)]
 
 ## 3. Ragas
