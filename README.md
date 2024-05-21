@@ -18,7 +18,8 @@ print(metrics_list)
 
 ## 2. evaluate
 - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized.
-- [[webpage](https://pypi.org/project/evaluate/)]
+- Metrics: Evaluate provides access to a wide range of evaluation tools. It covers a range of modalities such as text, computer vision, audio, etc. as well as tools to evaluate models or datasets. [[webpage](https://huggingface.co/evaluate-metric)]
+- [[webpage](https://huggingface.co/docs/evaluate/index)]
 
 ## 3. Ragas
 - Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
