@@ -14,12 +14,12 @@ print(metrics_list)
 ```python
 ['accuracy', 'bertscore', 'bleu', 'bleurt', 'cer', 'comet', 'coval', 'cuad', 'f1', 'gleu', 'glue', 'indic_glue', 'matthews_correlation', 'meteor', 'pearsonr', 'precision', 'recall', 'rouge', 'sacrebleu', 'sari', 'seqeval', 'spearmanr', 'squad', 'squad_v2', 'super_glue', 'wer', 'wiki_split', 'xnli']
 ```
-- [[webpage](https://huggingface.co/docs/datasets/metrics)]
+- Homepage: [[webpage](https://huggingface.co/docs/datasets/metrics)]
 
 ## 2. evaluate
 - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized. It has three types of evaluations: Metrics, comparison, and measurement. You can also create new evaluation modules and push them to a dedicated Space in the Huggingface Hub
 - Metrics: Evaluate provides access to dozens of popular metrics. It covers a range of modalities such as text, computer vision, audio, etc. as well as tools to evaluate models or datasets. Comparisons are used to measure the difference between models and measurements are tools to evaluate datasets. [[webpage](https://huggingface.co/evaluate-metric)]
-- [[webpage](https://huggingface.co/docs/evaluate/index)]
+- Homepage: [[webpage](https://huggingface.co/docs/evaluate/index)]
 
 ## 3. Ragas
 - Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
