@@ -28,6 +28,7 @@ print(metrics_list)
 
 ## 4. Amazon Mechanical Turk
 - Amazon Mechanical Turk to evaluate the model-generated response by humans based on HHH (helpful, honest, harmless) alignment criteria. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks.
+- Metrics: Human-based feedback on model generated response 
 - [[webpage](https://www.mturk.com/)]
 
 ## Useful Resources
