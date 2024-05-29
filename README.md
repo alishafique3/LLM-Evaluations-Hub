@@ -48,13 +48,16 @@ print(metrics_list)
 - [[Documentation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html#)]
 
 ## 8. OpenAI Evals
+- OpenAI Evals provide a framework for evaluating large language models (LLMs) or systems built using LLMs. We offer an existing registry of evals to test different dimensions of OpenAI models and the ability to write your own custom evals for use cases you care about.
+- Metrics: There are two main ways we can evaluate/grade completions: writing some validation logic in code or using the model itself to inspect the answer.
+- [[Getting Started](https://cookbook.openai.com/examples/evaluation/getting_started_with_openai_evals)]
 
 ## 9. Evidently
 - Evidently helps evaluate, test, and monitor data and ML-powered systems. Predictive tasks: classification, regression, ranking, recommendations, Generative tasks: chatbots, RAGs, Q&A, summarization, Data monitoring: data quality and data drift for text, tabular, texts, embeddings.
 - Rule-based. Detect specific words or patterns in your data. ML-based. Use external models to score data (e.g., for toxicity, topic, tone). LLM-as-a-judge. Prompt LLMs to categorize or score texts. [[Metrics](https://docs.evidentlyai.com/get-started/tutorial-llm#id-6.-customize-evaluations)]
 - [[Quickstart](https://docs.evidentlyai.com/get-started/quickstart-llm)], [[Tutorial](https://docs.evidentlyai.com/get-started/tutorial-llm)], [[Documentation](https://docs.evidentlyai.com/)]
 
-## 9. Amazon Mechanical Turk
+## 10. Amazon Mechanical Turk
 - Amazon Mechanical Turk to evaluate the model-generated response by humans based on HHH (helpful, honest, harmless) alignment criteria. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks.
 - Metrics: Human-based feedback on model generated response 
 - [[homepage](https://www.mturk.com/)]
