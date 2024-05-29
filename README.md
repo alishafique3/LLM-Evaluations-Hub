@@ -27,10 +27,13 @@ print(metrics_list)
 - [[homepage](https://docs.ragas.io/en/stable/index.html)], [[quick start](https://github.com/rajshah4/LLM-Evaluation/blob/main/ragas_quickstart.ipynb)], [[example_1](https://colab.research.google.com/drive/1vWeJBXdFEObuihO7Z8ui2CAYkdHQORqo?usp=sharing#scrollTo=Q3fIJM8ebasA)]
 
 ## 4. TruLens
-- TruLens is a software tool that helps you to objectively measure the quality and effectiveness of your LLM-based applications using feedback functions. It fits easily into your LLM app dev process. Simply install and add a couple of lines to your LLM app. Track any application, and evaluate it with the model of your choice. 
+- TruLens is a software tool that helps you to objectively measure the quality and effectiveness of your LLM-based applications using feedback functions. It fits easily into your LLM app dev process (LangChain or LlamaIndex). Simply install and add a couple of lines to your LLM app. Track any application, and evaluate it with the model of your choice. 
 - Metrics:  TruLens can evaluate your LLM app with the following kinds of feedback functions to increase performance and minimize risk:
   Context Relevance, Groundedness, Answer Relevance, Comprehensiveness, Harmful or toxic language, User sentiment, Language mismatch, Fairness and bias, other custom feedback functions you provide, logging human feedback about LLMs performance.
-- [[homepage](https://www.trulens.org/)], [[Documentation](https://www.trulens.org/trulens_eval/getting_started/)]
+- [[homepage](https://www.trulens.org/)], [[Documentation](https://www.trulens.org/trulens_eval/getting_started/)], [[Quickstart](https://www.trulens.org/trulens_eval/getting_started/quickstarts/quickstart/)]
+
+## 5. Deepeval
+- 
 
 
 ## 4. Amazon Mechanical Turk
