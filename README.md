@@ -47,8 +47,12 @@ print(metrics_list)
 - Metrics: It consists of statistical metrics and model based metrics. It includes answer similarity, answer correctness, answer relevance, faithfulness, rougeL, toxicity, Custom LLM based metric
 - [[Documentation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html#)]
 
-## 8. OpemAI Evals
+## 8. OpenAI Evals
 
+## 9. Evidently
+- Evidently helps evaluate, test, and monitor data and ML-powered systems. Predictive tasks: classification, regression, ranking, recommendations, Generative tasks: chatbots, RAGs, Q&A, summarization, Data monitoring: data quality and data drift for text, tabular, texts, embeddings.
+- Rule-based. Detect specific words or patterns in your data. ML-based. Use external models to score data (e.g., for toxicity, topic, tone). LLM-as-a-judge. Prompt LLMs to categorize or score texts. [[Metrics](https://docs.evidentlyai.com/get-started/tutorial-llm#id-6.-customize-evaluations)]
+- [[Quickstart](https://docs.evidentlyai.com/get-started/quickstart-llm)], [[Tutorial](https://docs.evidentlyai.com/get-started/tutorial-llm)], [[Documentation](https://docs.evidentlyai.com/)]
 
 ## 9. Amazon Mechanical Turk
 - Amazon Mechanical Turk to evaluate the model-generated response by humans based on HHH (helpful, honest, harmless) alignment criteria. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks.
