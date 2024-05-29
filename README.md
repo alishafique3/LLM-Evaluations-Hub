@@ -37,8 +37,20 @@ print(metrics_list)
 - Benchmarking:     BIG-Bench Hard, HellaSwag, MMLU (Massive Multitask Language Understanding), DROP, TruthfulQA, HumanEval, GSM8K
 - [[homepage](https://github.com/confident-ai/deepeval?tab=readme-ov-file)], [[Documentation](https://docs.confident-ai.com/docs/getting-started)], [[Blogs](https://www.confident-ai.com/blog)]
 
+## 6. LangSmith
+- LangSmith is used to inspect, monitor and evaluate your LLM application, so that you can continuously optimize and deploy with confidence. It also support Unit tests.
+- Metrics: Simple Heuristics, AI-assisted: "LLM-as-judge", Log humans feedback
+- [[Quickstart](https://docs.smith.langchain.com/)]
 
-## 4. Amazon Mechanical Turk
+## 7. MLflow LLM Evaluate
+- MLflow provides an API mlflow.evaluate() to help evaluate your LLMs. It consists of 3 main components: A model to evaluate, Metrics, and Evaluation data.
+- Metrics: It consists of statistical metrics and model based metrics. It includes answer similarity, answer correctness, answer relevance, faithfulness, rougeL, toxicity, Custom LLM based metric
+- [[Documentation](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html#)]
+
+## 8. OpemAI Evals
+
+
+## 9. Amazon Mechanical Turk
 - Amazon Mechanical Turk to evaluate the model-generated response by humans based on HHH (helpful, honest, harmless) alignment criteria. It is a crowdsourcing marketplace that makes it easier for individuals and businesses to outsource their tasks.
 - Metrics: Human-based feedback on model generated response 
 - [[homepage](https://www.mturk.com/)]
