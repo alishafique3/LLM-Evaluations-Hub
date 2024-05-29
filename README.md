@@ -32,7 +32,10 @@ print(metrics_list)
 - [[homepage](https://www.trulens.org/)], [[Documentation](https://www.trulens.org/trulens_eval/getting_started/)], [[Quickstart](https://www.trulens.org/trulens_eval/getting_started/quickstarts/quickstart/)]
 
 ## 5. Deepeval
-- 
+- DeepEval is an open-source evaluation framework for LLMs. DeepEval makes it extremely easy to build and iterate on LLM (applications). Easily "unit test" LLM outputs in a similar way to Pytest. 14+ LLM-evaluated metrics, Synthetic dataset generation, Metrics are simple to customize and covers all use cases, Real-time evaluations in production.
+- Metrics: G-Eval, Summarization, Faithfulness, Answer Relevancy, Contextual Relevancy, Contextual Precision, Contextual Recall, Ragas, Hallucination, Toxicity, Bias
+- Benchmarking:     BIG-Bench Hard, HellaSwag, MMLU (Massive Multitask Language Understanding), DROP, TruthfulQA, HumanEval, GSM8K
+- [[homepage](https://github.com/confident-ai/deepeval?tab=readme-ov-file)], [[Documentation](https://docs.confident-ai.com/docs/getting-started)], [[Blogs](https://www.confident-ai.com/blog)]
 
 
 ## 4. Amazon Mechanical Turk
