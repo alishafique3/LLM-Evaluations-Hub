@@ -1,6 +1,10 @@
 # LLM Evaluations Hub
 
-This repository is dedicated to the comprehensive list of evaluation tools for large language models (LLMs). It includes a diverse set of evaluation frameworks and performance metrics to assess aspects such as relevance, accuracy, fluency, coherence, readability, coverage, and diversity of generated content.
+This repository is dedicated to the comprehensive list of evaluation tools for large language models (LLMs). It includes a diverse set of evaluation frameworks and performance metrics to assess aspects such as relevance, accuracy, fluency, coherence, readability, coverage, and diversity of generated content. An architecture for LLM evaluation metric [[source of image](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)].
+
+![LLM_evaluation](https://github.com/alishafique3/LLM-Evaluations-Hub/assets/17300597/24ae64f0-91f6-4008-abad-2f977779f1a4)
+
+
 
 ## 1. datasets
 - Datasets provide various general and NLP-specific metrics to evaluate the performance of your models.
