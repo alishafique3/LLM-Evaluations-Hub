@@ -65,6 +65,7 @@ print(metrics_list)
 ## Useful Resources
 - Evaluating Large Language Model (LLM) systems: Metrics, challenges, and best practices [[medium](https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5)].
 - Evaluation for Large Language Models and Generative AI - A Deep Dive [[youtube](https://youtu.be/iQl03pQlYWY?si=JB47_iUMTBbOTCHh)].
+- Application: Example notebook of scoring a sentiment dataset with a LLM using langchain [[Link](https://github.com/rajshah4/LLM-Evaluation/blob/main/Sentiment_LLM.ipynb)]
         
 <!--
 <h2 class="section-title">Overview</h2>
